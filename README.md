@@ -2,4 +2,4 @@
 
 Hi! 
 
-Maybe a good star!
+Maybe a good start!
